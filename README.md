@@ -9,7 +9,7 @@
 ![gambar 1](gambar/soal.jpeg)
 
 <p>file index.php</p>
-```php
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,7 +44,7 @@
 ```
 
 <p>lalu buat output.php</p>
-```php
+```html
 <title> Output </title>
 <?php
     
