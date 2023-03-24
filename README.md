@@ -9,7 +9,8 @@
 ![gambar 1](gambar/soal.jpeg)
 
 <p>file index.php</p>
-```html
+
+```php
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,7 +45,8 @@
 ```
 
 <p>lalu buat output.php</p>
-```html
+
+```php
 <title> Output </title>
 <?php
     
@@ -78,3 +80,15 @@
     }
 ?>
 ```
+
+<p>Hasil nya seperti ini</p>
+
+![gambar 2](gambar/hasil.jpg)
+
+
+![gambar 3](gambar/hasil1.jpg)
+
+
+![gambar 4](gambar/hasil2.jpg)
+
+
